@@ -8,3 +8,5 @@ Load these using the Chirp software.
 * `chirp.img` - an image file you can use to load into Chirp. Only tested with the Baofeng UV-5RA.
 * `chirp.csv` - an csv export of the image file. 
 
+## Useful Links
+* [RadioReference.com listing for Champaign-Urbana](http://wiki.radioreference.com/index.php/Champaign-Urbana) *http://wiki.radioreference.com/index.php/Champaign-Urbana*
