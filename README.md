@@ -1,4 +1,5 @@
-# K9JBA
+# Amateur Radio
+
 Ongoing collection of things related to radios.
 
 ## Champaign-Urbana Frequencies
