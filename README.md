@@ -2,12 +2,9 @@
 
 Ongoing collection of things related to radios.
 
-## Champaign-Urbana Frequencies
-The following image and csv file provide you with most of the active channels in the surrounding area (Champaign-Urbana, IL). I've also included GMRS and FRS stations, though you shouldn't transmit on those above 1 watt or 0.5 watts, respectively.
+## Radio Images
 
-Load these using the [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home) software.
-* `cu.img` - an image file you can use to load into Chirp. Only tested with the Baofeng UV-5RA.
-* `cu.csv` - an csv export of the image file. 
+Each directory is unique to a specific radio with an `.img` file and a `.csv` file. The image files can be loaded directly onto the same model of radio using the [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home) software. The CSV file is there to easily see what is in the image files.
 
 ## Useful Links
 * [RadioReference.com listing for Champaign-Urbana](http://wiki.radioreference.com/index.php/Champaign-Urbana) *http://wiki.radioreference.com/index.php/Champaign-Urbana*

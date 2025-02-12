@@ -1,4 +1,4 @@
-# UV-6R
+# Baofeng UV-6R
 
 ![](UV-6R.png)
 
